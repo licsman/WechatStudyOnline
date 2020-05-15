@@ -1,0 +1,7 @@
+<!--pages/studyway/studyway.wxml-->
+<view class='pic'>
+  <image src="https://jiawei.shop/images/studyway1.png"></image>
+</view>
+<view class='pic1'>
+  <image src="https://jiawei.shop/images/studyway2.png"></image>
+</view>

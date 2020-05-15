@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="userinfo">
+        <button wx:if="{{!(hasUserInfo && canIUse)}}" open-type="getUserInfo" bindgetuserinfo='getUserInfo'> 立即登陆 </button>
+        <block wx:else>
+            <open-data type="userAvatarUrl" class="userinfo-avatar"></open-data>
+            <open-data type="userNickName" lang="zh_CN" class="userinfo-nickname"></open-data>
+        </block>
+    </view>
+</view>

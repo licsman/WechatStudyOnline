@@ -1,0 +1,24 @@
+<!--pages/tab3/tab3.wxml-->
+<view class='top'>
+<image src="https://jiawei.shop/images/top1.png" mode='widthFix'></image>
+</view>
+<view class='cate_menu'>
+    <view class='cate_menu_1'>
+      <view><image src="https://jiawei.shop/images/jingxuan.png"></image></view>
+      <view class='cate_name'><text>学习路线</text></view>
+    </view>
+    <view class='cate_title'>为百万学者精心打造的学习路线</view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/php.jpg"></image>
+    </view>
+    <view class='art_menu' bindtap='studyway'>
+      <view class='art_name'>php从小白到大神的高级学习路线</view>
+      <view class='art_title'>十年专注培养高级php工程师</view>
+      <view class='art_user_num'>
+        <text>1001人已学习</text>
+        <text class='start' bindtap='yunjisuan'>开始查看</text>
+      </view>
+    </view>
+  </view>

@@ -1,0 +1,29 @@
+<!--pages/jiaozhi/jiaozhi.wxml-->
+<view class='title'>
+<text>Web前端开发之HTML+CSS精英课堂</text>
+</view>
+<view class="section">
+  <video
+    class="myVideo"
+    src="https://jiawei.shop/uploads/20190418121313170.mp4"
+    objectFit='cover'
+    show-center-play-btn = "true"
+    controls 
+    danmu-btn page-gesture = "true" 
+    enable-progress-gesture = "true"
+  >
+  </video>
+</view>
+<view class='des'>
+<text>课程简介</text>
+</view>
+<view class='des_content'>
+<text>十年累计培养Linux云计算工程师超过30000+人；Linux运维架构师超过3000+人；python全栈开发工程师2500+人，51cto受众学员达500万人次，马哥Linux运维微信公共号关注人数近10万人，腾讯课堂影响学员20万+人次，全国院校合作50+所。</text>
+</view>
+<view class='des'>
+<text>教师风采</text>
+</view>
+<view class='des_content'>
+<text>原新浪架构师主讲课程，采用 CentOS7.5 企业版，全面介绍CentOS7.5 新特性，加入实战式LVS集群实现负载均衡，nginx-haproxy-实现七层负载均衡，MFS分布式文件系统搭建，Mysql数据库DBA、课程体系完全贴合工作环境；加入35种服务，让你感受课堂教学=实战操作！</text>
+</view>
+

@@ -1,0 +1,29 @@
+/* pages/course/course.wxss */
+.title{
+  width: 100%;
+  height: 60rpx;
+  background-color: #CCCC99;
+}
+.title text{
+  font-size: 35rpx;
+}
+.myVideo{
+  width: 100%;
+}
+.des{
+  width: 100%;
+  height: 60rpx;
+  background-color: #99CCCC;
+  margin-top: 0rpx;
+}
+.des text{
+  font-size: 35rpx;
+}
+.des_content{
+  width: 100%;
+  height: 250rpx;
+  background-color: #FFCC99;
+}
+.des_content text{
+  font-size: 27rpx;
+}

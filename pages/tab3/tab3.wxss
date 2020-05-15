@@ -1,0 +1,84 @@
+/* pages/tab3/tab3.wxss */
+.top image{
+  width: 100%;
+}
+.line{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.line view{
+  width: 95%;
+  height: 3rpx;
+  background-color: rgba(182, 165, 165, 0.788)
+}
+.cate_menu{
+  width: 100%;
+  height: 110rpx;
+  margin-top: 30rpx;
+}
+.cate_menu_1{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+.cate_menu_1 image{
+  width: 40rpx;
+  height: 40rpx;
+  margin-top: 10rpx;
+  margin-left: 20rpx;
+  margin-right: 15rpx;
+}
+.cate_menu_1 text{
+  font-size: 35rpx;
+}
+.cate_menu .cate_title{
+  font-size: 28rpx;
+  margin-left: 20rpx;
+  color: #666666;
+}
+.arts{
+  width: 100%;
+  height: 200rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+.arts image{
+  width: 160rpx;
+  height: 160rpx;
+  margin-left: 20rpx;
+  border:0px;
+  border-radius:8px;
+}
+.art_menu{
+  height: 200rpx;
+}
+.art_menu .art_name{
+  font-size: 32rpx;
+  margin-left: 15rpx;
+  margin-top: 25rpx;
+}
+.art_menu .art_title{
+  font-size: 28rpx;
+  color: #666666;
+  margin-left: 15rpx;
+  margin-top: 15rpx;
+}
+.art_menu .art_user_num{
+  font-size: 25rpx;
+  color: #666666;
+  margin-left: 15rpx;
+  margin-top: 15rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+.art_menu .art_user_num .start{
+  font-size: 28rpx;
+  color: #0099FF;
+  margin-left: 150rpx;
+}

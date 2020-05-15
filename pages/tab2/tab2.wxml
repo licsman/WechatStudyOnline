@@ -1,0 +1,149 @@
+<!--pages/tab2/tab2.wxml-->
+<view class='study-container'>
+<view class='top'>
+<image src="https://jiawei.shop/images/top.png" mode='widthFix'></image>
+</view>
+<view class='line'>
+  </view>
+  <view class='cate_menu'>
+    <view class='cate_menu_1'>
+      <view><image src="https://jiawei.shop/images/jingxuan.png"></image></view>
+      <view class='cate_name'><text>IT互联网课程</text></view>
+    </view>
+    <view class='cate_title'>为百万学者精心打造的在线好课</view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach1.png"></image>
+    </view>
+    <view class='art_menu' bindtap='yunjisuan'>
+      <view class='art_name'>Linux云计算工程师</view>
+      <view class='art_title'>十年专注培养高级Linux云计算工程师</view>
+      <view class='art_user_num'>
+        <text>1001人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach2.png"></image>
+    </view>
+    <view class='art_menu' bindtap='qiantai'>
+      <view class='art_name'>Web前端开发之HTML+CSS精英课堂</view>
+      <view class='art_title'>带你从0基础入门前端领域！</view>
+      <view class='art_user_num'>
+        <text>9999人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach3.png"></image>
+    </view>
+    <view class='art_menu' bindtap='java'>
+      <view class='art_name'>JAVA高级开发</view>
+      <view class='art_title'>JAVA高级开发架构师课程</view>
+      <view class='art_user_num'>
+        <text>9999人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach4.png"></image>
+    </view>
+    <view class='art_menu' bindtap='jiaozhi'>
+      <view class='art_name'>2019年教师资格证公开课</view>
+      <view class='art_title'>职场考证课程，为你量身打造的好课</view>
+      <view class='art_user_num'>
+        <text>9999人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+  <view class='line'>
+  <view></view>
+  </view>
+  <view class='cate_menu'>
+    <view class='cate_menu_1'>
+      <view><image src="https://jiawei.shop/images/line_icon.png"></image></view>
+      <view class='cate_name'><text>设计师创作课程</text></view>
+    </view>
+    <view class='cate_title'>为百万学者精心打造的在线好课</view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach5.png"></image>
+    </view>
+    <view class='art_menu'>
+      <view class='art_name'>PS淘宝美工PS教程精修</view>
+      <view class='art_title'>由大鹏传媒创始人王田主讲,分享PS的技巧</view>
+      <view class='art_user_num'>
+        <text>9999人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+  <view class='line'>
+  <view></view>
+  </view>
+    <view class='cate_menu'>
+    <view class='cate_menu_1'>
+      <view><image src="https://jiawei.shop/images/line_icon.png"></image></view>
+      <view class='cate_name'><text>创业经商课程</text></view>
+    </view>
+    <view class='cate_title'>为创业者精心打造的在线好课</view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach6.jpg"></image>
+    </view>
+    <view class='art_menu'>
+      <view class='art_name'>十万创业者必学的经典</view>
+      <view class='art_title'>由阿里巴巴创始人马云主讲,分享创业的过程</view>
+      <view class='art_user_num'>
+        <text>9999人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach7.jpg"></image>
+    </view>
+    <view class='art_menu'>
+      <view class='art_name'>狼道管理教育</view>
+      <view class='art_title'>由文化集团创始人华少主讲,分享创业的过程</view>
+      <view class='art_user_num'>
+        <text>9999人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+  <view class='line'>
+  <view></view>
+  </view>
+  <view class='cate_menu'>
+    <view class='cate_menu_1'>
+      <view><image src="https://jiawei.shop/images/line_icon.png"></image></view>
+      <view class='cate_name'><text>考研考公务员课程</text></view>
+    </view>
+    <view class='cate_title'>为大学生精心打造的在线好课</view>
+  </view>
+  <view class='arts'>
+    <view>
+      <image src="https://jiawei.shop/images/teach8.jpg"></image>
+    </view>
+    <view class='art_menu'>
+      <view class='art_name'>中公教育，圆你考公梦</view>
+      <view class='art_title'>由中公教育大咖云云主讲,带你逆袭</view>
+      <view class='art_user_num'>
+        <text>9999人已学习</text>
+        <text class='start'>开始学习</text>
+      </view>
+    </view>
+  </view>
+</view>

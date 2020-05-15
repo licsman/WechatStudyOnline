@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/tab2/tab2",
+    "pages/tab3/tab3",
+    "pages/tab4/tab4",
+    "pages/welcome/welcome",
+    "pages/course/course",
+    "pages/qiantai/qiantai",
+    "pages/java/java",
+    "pages/studyway/studyway",
+    "pages/jiaozhi/jiaozhi"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#333333",
+    "navigationBarTitleText": "即客学习",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#282828",
+    "borderStyle": "black",
+    "selectedColor": "#0099FF",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icon/science.png",
+        "selectedIconPath": "icon/science.png"
+      },
+      {
+        "pagePath": "pages/tab2/tab2",
+        "text": "全部课程",
+        "iconPath": "icon/pencil.png",
+        "selectedIconPath": "icon/pencil.png"
+      },
+      {
+        "pagePath": "pages/tab3/tab3",
+        "text": "学习路线",
+        "iconPath": "icon/teacher_desk.png",
+        "selectedIconPath": "icon/teacher_desk.png"
+      },
+      {
+        "pagePath": "pages/tab4/tab4",
+        "text": "个人中心",
+        "iconPath": "icon/yearbook.png",
+        "selectedIconPath": "icon/yearbook.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
