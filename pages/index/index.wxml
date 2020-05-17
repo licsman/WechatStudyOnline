@@ -11,37 +11,37 @@
     circular="{{circular}}"
   >
     <swiper-item>
-      <image src="https://jiawei.shop/images/banner_1.png" class="slide-image" width="100%" mode='widthFix'/>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBp6WAQta5OAGeHic1znIRM3LY0oAzcVErdN2AdDmkyArmRG1icfMykH0A/0?wx_fmt=png" class="slide-image" width="100%" mode='widthFix'/>
     </swiper-item>
     <swiper-item>
-      <image src="https://jiawei.shop/images/banner_2.png" class="slide-image" width="100%" mode='widthFix'/>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBKt6jPkZcplP2sXmf0hdTqeEhckBERWPSiaJz0mXSpIuNkdve2tjfFTA/0?wx_fmt=png" class="slide-image" width="100%" mode='widthFix'/>
     </swiper-item>
     <swiper-item>
-      <image src="https://jiawei.shop/images/banner_3.png" class="slide-image" width="100%" mode='widthFix'/>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBjx6qq50E0L3kISARNMS3xsiaI1ib5dYB6hdibVpv6frCKOIMquK2aZJIA/0?wx_fmt=png" class="slide-image" width="100%" mode='widthFix'/>
     </swiper-item>
         <swiper-item>
-      <image src="https://jiawei.shop/images/banner_4.png" class="slide-image" width="100%" mode='widthFix'/>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBM6EYJGwmjJOCHVVbD7JqCvmQ1afp8TiaJGNtuIjA0keFk6HDibya79Nw/0?wx_fmt=png" class="slide-image" width="100%" mode='widthFix'/>
     </swiper-item>
         <swiper-item>
-      <image src="https://jiawei.shop/images/banner_5.png" class="slide-image" width="100%" mode='widthFix'/>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBM6EYJGwmjJOCHVVbD7JqCvmQ1afp8TiaJGNtuIjA0keFk6HDibya79Nw/0?wx_fmt=png" class="slide-image" width="100%" mode='widthFix'/>
     </swiper-item>
   </swiper>
 
   <view class='middle_menu'>
     <view class='menu_ceil' bindtap='tab2'>
-      <image src="https://jiawei.shop/images/learning.png"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBCrBxWxHS07ib6xNicMObqPbbJPM3esvQv8Zv00wAl7rG6ZXpN0nicjZsQ/0?wx_fmt=png"></image>
       <view><text>精品课程</text></view>
     </view>
     <view class='menu_ceil' bindtap='tab3'>
-      <image src="https://jiawei.shop/images/orientation.png"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBe5plr31C5hnPL0NiaK3GYEBjC1kq1N6FaCsrFz5aTrVrrjdfT7yL61Q/0?wx_fmt=png"></image>
       <view><text>学习指南</text></view>
     </view>
         <view class='menu_ceil'>
-        <image src="https://jiawei.shop/images/watercolor.png"></image>
+        <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBmPGgMGsZsr16v2xYBXVM9QE7RjPkEcnJ1Tw7hszHDv1W2LZusRLKSA/0?wx_fmt=png"></image>
         <view><text>新课推荐</text></view>
     </view>
     <view class='menu_ceil'>
-        <image src="https://jiawei.shop/images/mortarboard.png"></image>
+        <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBcuxhw4x4jX3f8kZ0Am7Ns9QUFerlyHm1ZVWFrJnOBEK9TG1h4H77xg/0?wx_fmt=png"></image>
         <view><text>资料干货</text></view>
     </view>
   </view>
@@ -50,14 +50,14 @@
   </view>
   <view class='cate_menu'>
     <view class='cate_menu_1'>
-      <view><image src="https://jiawei.shop/images/jingxuan.png"></image></view>
+      <view><image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBayly6SI2E0EF5gOXOf550C07Cnh5rEGy6Jf23oB4b8eubshgJh8iaiaQ/0?wx_fmt=png"></image></view>
       <view class='cate_name'><text>精选课程</text></view>
     </view>
     <view class='cate_title'>为百万学者精心打造的在线好课</view>
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach1.png"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicB4frclMQgY6gLhPwibNWctBlqV5YmRMmSwFnA3vzTic5c4MeGMsrCnjeA/0?wx_fmt=png"></image>
     </view>
     <view class='art_menu' bindtap='yunjisuan'>
       <view class='art_name'>Linux云计算工程师</view>
@@ -70,7 +70,7 @@
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach2.png"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicB9iazqN83Y7FFE8hoegJPxKXdnn8zAuxLcKzjSowggZGysd6mogPiaib4w/0?wx_fmt=png"></image>
     </view>
     <view class='art_menu'  bindtap='qiantai'>
       <view class='art_name'>Web前端开发之HTML+CSS精英课堂</view>
@@ -83,7 +83,7 @@
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach3.png"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBtuwfwC14OTYQVWTHHI5bg0kXmqzFnOD7QQaF9BadYujR8EwxfN3iaMQ/0?wx_fmt=png"></image>
     </view>
     <view class='art_menu' bindtap='java'>
       <view class='art_name'>JAVA高级开发</view>
@@ -96,7 +96,7 @@
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach4.png"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBZo2KSULiccMuwLYxp7njGCKOyNxHwfUwc4Fu6qlTbmLxGz1WdtGIIeg/0?wx_fmt=png"></image>
     </view>
     <view class='art_menu' bindtap='jiaozhi'>
       <view class='art_name'>2019年教师资格证公开课</view>
@@ -112,16 +112,16 @@
   </view>
   <view class='cate_menu'>
     <view class='cate_menu_1'>
-      <view><image src="https://jiawei.shop/images/line_icon.png"></image></view>
+      <view><image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBXdETeJSvo5BliabI3BJibMfWtLZOJMlTCwBibwH5Ymu5MQ46dZ1uu6iaIQ/0?wx_fmt=png"></image></view>
       <view class='cate_name'><text>能量加油站</text></view>
     </view>
     <view class='cate_title'>为百万学者精心打造的在线好课</view>
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach5.png"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_jpg/aQUhNZ20IsNB1zoricfzkPjWgWjxVzOzmicvh0l3yDR8vblyxEEBmgDalSCcictjvsTspCBFxS7e6VMp1ZWx7XZ3w/0?wx_fmt=jpeg"></image>
     </view>
-    <view class='art_menu'>
+    <view class='art_menu' bindtap='java'>
       <view class='art_name'>PS淘宝美工PS教程精修</view>
       <view class='art_title'>由大鹏传媒创始人王田主讲,分享PS的技巧</view>
       <view class='art_user_num'>
@@ -132,9 +132,9 @@
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach6.jpg"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBiaRKeEHR5CebbXugo6ns6bMMxvdbibgicX92uU7IqGcCec6IFqlM07NyA/0?wx_fmt=png"></image>
     </view>
-    <view class='art_menu'>
+    <view class='art_menu' bindtap='java'>
       <view class='art_name'>十万创业者必学的经典</view>
       <view class='art_title'>由阿里巴巴创始人马云主讲,分享创业的过程</view>
       <view class='art_user_num'>
@@ -145,9 +145,9 @@
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach7.jpg"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_jpg/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBOYEmtpx1cuia3XqOY1y4rwWguibm9iaYx7VYqEfHxrSHOtngdJvdgerAw/0?wx_fmt=jpeg"></image>
     </view>
-    <view class='art_menu'>
+    <view class='art_menu' bindtap='java'>
       <view class='art_name'>狼道管理教育</view>
       <view class='art_title'>由文化集团创始人华少主讲,分享创业的过程</view>
       <view class='art_user_num'>
@@ -158,9 +158,9 @@
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/teach8.jpg"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_jpg/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBgeD9qtjfGxbZNJIA0aF7cia5IDiaUomRFH0ClS8ORAacsXW8ibKrXoAkA/0?wx_fmt=jpeg"></image>
     </view>
-    <view class='art_menu'>
+    <view class='art_menu' bindtap='java'>
       <view class='art_name'>中公教育，圆你考公梦</view>
       <view class='art_title'>由中公教育大咖云云主讲,带你逆袭</view>
       <view class='art_user_num'>

@@ -1,17 +1,17 @@
 <!--pages/tab4/tab4.wxml-->
 <view class='main'>
   <view class='pic'>
-    <image src="https://jiawei.shop/images/mjw.png"></image>
+    <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBBLY8NrC4fxMm4BJJicsZSJ0icbxdUDzvxneISKTldzrR544OsWt7xDkQ/0?wx_fmt=png"></image>
   </view>
   <view class='des'>
     <view class='item'>
-    <text>我的昵称：LICSMAN</text>
+    <text>我的个性化数据</text>
     </view>
     <view class='item'>
       <text>我的性别：男</text>
     </view>
     <view class='item'>
-      <text>我的地区：宁夏 银川</text>
+      <text>我的地区：北京 海淀区</text>
     </view>
     <view class='item'>
       <text>我的课程：Linux云计算课程</text>
@@ -19,8 +19,9 @@
   </view>
 </view>
 <view class='title'>
-<text>我七日的学习状况可视化表</text>
+<text>按月学习数据报表可视化</text>
 </view>
 <view class='pic1'>
-  <image src="https://jiawei.shop/images/echarts.png"></image>
+  <image src="https://mmbiz.qpic.cn/mmbiz_jpg/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBn3p1SDq6FXQpUG2cjua5sgpjurpyEaz9cPQZCm1Mg6u4GxzcTliaib5w/0?wx_fmt=jpeg"></image>
+  <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBWTEpO4FhWTCXXdFgNiaZ53Njl4nONudrkDgv4TnOnoCXicQfPibK139qQ/0?wx_fmt=pngg"></image>
 </view>

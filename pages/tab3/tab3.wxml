@@ -1,17 +1,17 @@
 <!--pages/tab3/tab3.wxml-->
 <view class='top'>
-<image src="https://jiawei.shop/images/top1.png" mode='widthFix'></image>
+<image src="https://mmbiz.qpic.cn/mmbiz_jpg/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBxDgbXkCxIomQ2FRATuYQS9nSn4fGNu7v01AGwMuaJF7qFPLBTHOOBQ/0?wx_fmt=jpeg" mode='widthFix'></image>
 </view>
 <view class='cate_menu'>
     <view class='cate_menu_1'>
-      <view><image src="https://jiawei.shop/images/jingxuan.png"></image></view>
+      <view><image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBayly6SI2E0EF5gOXOf550C07Cnh5rEGy6Jf23oB4b8eubshgJh8iaiaQ/0?wx_fmt=png"></image></view>
       <view class='cate_name'><text>学习路线</text></view>
     </view>
     <view class='cate_title'>为百万学者精心打造的学习路线</view>
   </view>
   <view class='arts'>
     <view>
-      <image src="https://jiawei.shop/images/php.jpg"></image>
+      <image src="https://mmbiz.qpic.cn/mmbiz_png/aQUhNZ20IsP6v6s6c0dNZSZHcibC3EVicBh9EsbuibIu1XEt9hOyAafRicyfmbdxMz0TrJicwCFxl9vFLKbKj27XFDQ/0?wx_fmt=png"></image>
     </view>
     <view class='art_menu' bindtap='studyway'>
       <view class='art_name'>php从小白到大神的高级学习路线</view>

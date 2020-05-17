@@ -7,7 +7,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background-color: #99CCFF;
+  background-color: #F0EDBB;
   margin-top: 10rpx;
 }
 .pic image{
