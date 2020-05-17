@@ -1,7 +1,10 @@
 <!--pages/studyway/studyway.wxml-->
 <view class='pic'>
-  <image src="https://jiawei.shop/images/studyway1.png"></image>
+  <image src="https://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLCTXttCZI4J4ibxhHFTqftibRZhJFp8aLicHhaZh8bFJoOElL6n2ZpFnFZ2WdKibsLkMD4/"></image>
 </view>
 <view class='pic1'>
-  <image src="https://jiawei.shop/images/studyway2.png"></image>
+  <image src="https://10.url.cn/qqke_course_info/ajNVdqHZLLAJbtyhkt3LbtEvhUha9ZKjz96XtVNPw7LeztH9iah3Sk9jGQBvcGz5rxTubjamnKaE/"></image>
+  <image src="https://10.url.cn/qqke_course_info/ajNVdqHZLLCCwfDZYcWMA4LmsXBRW23WKWDWRjaiakLY5svU4AaYRhsnwB27rjBpjLBHllhuPo2A/"></image>
+  <image src="https://10.url.cn/qqke_course_info/ajNVdqHZLLDLyq5YJBia5iaGpevHHPjN9NLmQPbaS09N91lIPLnWfWvcTkIl4k9pOqC7ph7VzrrbA/"></image>
+  <image src="https://10.url.cn/qqke_course_info/ajNVdqHZLLDdFzJ4XwGNb877PkDOQoBSB7XpCbYjgawOJwEibMGYfSlsdz0md57U1GYKHGsTYSaQ/"></image>
 </view>

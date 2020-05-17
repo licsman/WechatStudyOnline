@@ -1,9 +1,9 @@
 /* pages/studyway/studyway.wxss */
 .pic image{
   width: 100%;
-  height: 300rpx;
+  height: 400rpx;
 }
 .pic1 image{
   width: 100%;
-  height: 600rpx;
+  height: 400rpx;
 }
